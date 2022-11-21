@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vodina
 
-I am a software engineer currently in Nigeria. I am passionate about web technologies , my favourite language to work with is Python ! :smiley:
+I am a software engineer currently in Nigeria. I am passionate about web technologies , my favourite language to work with is JavaScript ! :smiley:
 - 🔭 I’m currently working on this page, updating it through my learning journey at ALX and Altschools Africa. 
 - 👯 I’m looking to collaborate on **Open source projects**
 - 📫 How to reach me: **efem.vodina@gmail.com**
